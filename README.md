@@ -1,6 +1,8 @@
 # Overview
 This is a `academic review system`, designed for beginners to get the core of a new academic field. Users can put in a domain of interest and the system will collect related papers, which are then summarized into a review on this domain. For more details, view [technical report](./technical_report.md). 
 
+The ***demonstration video*** can be seen in pku disk [https://disk.pku.edu.cn/link/AAE5A59925B3BB4EEEA466EA69ADA27D9D](https://disk.pku.edu.cn/link/AAE5A59925B3BB4EEEA466EA69ADA27D9D), the validation code being U3Zs.
+
 ## Key Modules
 Main modules include: 
 
